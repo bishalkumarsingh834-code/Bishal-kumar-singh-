@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI सहायक",
+  "description": "एक आधुनिक और क्लीन AI चैटबॉट ऐप जो आपके सवालों के सही जवाब देता है।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
